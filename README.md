@@ -1,4 +1,4 @@
-![logo](https://github.com/rakeshkas/rakeshkas/blob/main/template.jfif)
+
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
